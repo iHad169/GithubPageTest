@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+# Line chart
+{{Line-Chart}}
+- a:1,3,2
+- b:2,1,4
+- c: 3,2,5
+- d: 2,3,4
+- e: 1,4,3
+- f: 4,2,1
