@@ -48,3 +48,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - d: 2,3,4
 - e: 1,4,3
 - f: 4,2,1
+
+
+
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+​```
