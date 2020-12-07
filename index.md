@@ -26,8 +26,30 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<center>诶嘿</center>
-![](/assets/img/復活過程-第1頁.png)
+![復活過程-第1頁](/assets/img/復活過程/復活過程-第1頁.svg)
+<center>復活過程-第1頁</center>
+![復活過程-第2頁](/assets/img/復活過程/復活過程-第2頁.svg)
+<center>復活過程-第2頁</center>
+![復活過程-第3頁](/assets/img/復活過程/復活過程-第3頁.svg)
+<center>復活過程-第3頁</center>
+![復活過程-第4頁](/assets/img/復活過程/復活過程-第4頁.svg)
+<center>復活過程-第4頁</center>
+![復活過程-第5頁](/assets/img/復活過程/復活過程-第5頁.svg)
+<center>復活過程-第5頁</center>
+![復活過程-第6頁](/assets/img/復活過程/復活過程-第6頁.svg)
+<center>復活過程-第6頁</center>
+![復活過程-第7頁](/assets/img/復活過程/復活過程-第7頁.svg)
+<center>復活過程-第7頁</center>
+![復活過程-第8頁](/assets/img/復活過程/復活過程-第8頁.svg)
+<center>復活過程-第8頁</center>
+![復活過程-第9頁](/assets/img/復活過程/復活過程-第9頁.svg)
+<center>復活過程-第9頁</center>
+![復活過程-第10頁](/assets/img/復活過程/復活過程-第10頁.svg)
+<center>復活過程-第10頁</center>
+![復活過程-第11頁](/assets/img/復活過程/復活過程-第11頁.svg)
+<center>復活過程-第11頁</center>
+![復活過程-第12頁](/assets/img/復活過程/復活過程-第12頁.svg)
+<center>復活過程-第12頁</center>
 
 
 
