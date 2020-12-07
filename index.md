@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
+<center>诶嘿</center>
 ![](/assets/img/復活過程-第1頁.png)
 
 
