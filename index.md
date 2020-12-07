@@ -26,20 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Sicherung vorbereiten](/asset/img/復活過程-第1頁.png)
 
-... which is shown in the screenshot below:
-![My helpful screenshot](/assets/img/復活過程-第1頁.png)
+![](/assets/img/復活過程-第1頁.png)
 
-![Sicherung vorbereiten](/asset/img/1.png)
-
-... which is shown in the screenshot below:
-![My helpful screenshot](/assets/img/1.png)
-
-![Sicherung vorbereiten](/asset/1.png)
-
-... which is shown in the screenshot below:
-![My helpful screenshot](/assets/1.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
