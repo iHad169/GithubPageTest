@@ -1,4 +1,6 @@
-theme: jekyll-theme-leap-day
-remote_theme: jekyll-theme-leap-day
 title: 化灰動物復活大綱
+description: 化灰動物復活大綱
+show_downloads: false
+theme: jekyll-theme-leap-day
+google_analytics:
 google_ad_client: ca-pub-2319576034906153
